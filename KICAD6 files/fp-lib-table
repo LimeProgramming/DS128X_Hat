@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DS128X_hat")(type "KiCad")(uri "N:/arduino/ps22serial/USBtoSerialPico/ps2-serial-mount/DS128X_hat/DS128X_hat.pretty")(options "")(descr ""))
+)
